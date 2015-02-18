@@ -43,3 +43,11 @@ group :development, :test do
   gem 'spring'
 end
 
+group :assets do
+
+
+    gem 'twitter-bootstrap-rails'
+
+    gem 'execjs'
+end
+
